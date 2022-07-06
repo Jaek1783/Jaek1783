@@ -65,6 +65,7 @@
     2. react-router-dom
     3. react-redux
     4. styled-components
+    5. firebase 서버연동
 
 ## 🔎 참고_Youtube
 
