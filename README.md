@@ -66,6 +66,7 @@
     3. react-redux
     4. styled-components
     5. firebase 서버연동
+    6. AWS S3, Router53, ClouldFront를 이용한 Https 적용
 
 ## 🔎 참고_Youtube
 
