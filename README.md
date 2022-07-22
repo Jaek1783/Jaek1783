@@ -104,14 +104,12 @@
 
 - 주소 : [https://jaek1783.github.io/Tetris-Game](https://jaek1783.github.io/Tetris-Game)
 
-### 부트스트랩으로 자기소개 페이지 만들기
-
-- 주소 : [https://jaek1783.github.io/myself](https://jaek1783.github.io/myself)
-
-### 리액트로 만든 CRUD 게시판 클론코딩 하기
-
-- 주소 : [https://jaek1783.github.io/post](https://jaek1783.github.io/post)
-
-### 리액트로 샐러드 판매점 사이트 만들기
+### 리액트로 샐러드 사이트 만들기
 
 - 주소 : [https://jaek1783.github.io/salad](https://jaek1783.github.io/salad)
+
+### 리액트 프로젝트 <나의 버킷리스트>
+- 주소 : [https://www.buketlist.me](https://www.buketlist.me)
+
+### 리액트 프로젝트 <나를 아시나요? Quiz>
+- 주소 : [https://www.youknowme.tk](https://www.youknowme.tk)
