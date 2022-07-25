@@ -106,7 +106,7 @@
 
 ### 리액트로 샐러드 사이트 만들기
 
-- 주소 : [https://jaek1783.github.io/salad](https://jaek1783.github.io/salad)
+- 주소 : [https://www.saladbrother.ml](https://www.saladbrother.ml)
 
 ### 리액트 프로젝트 <나의 버킷리스트>
 - 주소 : [https://www.buketlist.me](https://www.buketlist.me)
