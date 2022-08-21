@@ -49,6 +49,10 @@
 - 깃허브 : https://github.com/jaek1783/salad
 - 주소 : https://www.saladbrother.ml
 
+### 리액트 프로젝트 <스타벅스 메인페이지 코딩해보기>
+- 깃허브 : https://github.com/jaek1783/starbucks
+- 주소 : https://jaek1783.github.io/starbucks
+
 ## 🔎 참고_Youtube
 
 ### 코딩애플
