@@ -34,7 +34,7 @@
 - 주소 : https://jaek1783.github.io/BbangSsaem
 
 ### 바닐라자바스크립트로 테트리스 클론코딩 하기
-- 깃허브 : https://github.com/Tetris-Game
+- 깃허브 : https://github.com/jaek1783/Tetris-Game
 - 주소 : https://jaek1783.github.io/Tetris-Game
 
 ### 리액트 프로젝트 <나의 버킷리스트>
