@@ -21,7 +21,7 @@
 - 포트폴리오 : https://jaek1783.github.io/choi_v2.0
 
 ## 🏢 Certificates
-<img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024219-be07032a-ce84-4dd8-a7dc-4468aa24f15b.png" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/73649967/182024219-be07032a-ce84-4dd8-a7dc-4468aa24f15b.png" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="300" height="200">
 
 ## 🖊Portfolio
 
