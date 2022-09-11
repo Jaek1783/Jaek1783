@@ -21,7 +21,10 @@
 - 포트폴리오 : https://jaek1783.github.io/choi_v2.0
 
 ## 🏢 Certificates
+* 국비지원 직업훈련 _디지털컨버전스 웹퍼블리셔 전문가 양성과정(2018.08.27~2019.01.31)
+
 <img src="https://user-images.githubusercontent.com/73649967/182024219-be07032a-ce84-4dd8-a7dc-4468aa24f15b.png" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="300" height="200">
+* 스파르타코딩클럽_리액트 심화반(2022.08.15~2022.09.18)-수료증 업로드 예정
 
 ## 🖊Portfolio
 
