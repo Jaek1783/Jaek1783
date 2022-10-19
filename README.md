@@ -17,7 +17,7 @@
 - 전화 : 010 - 8591 - 7542
 - 이메일 : jaek1783@gmail.com
 - 깃허브 : [https://github.com/jaek1783](https://github.com/jaek1783)
-- 블로그 : [https://blog.naver.com/jaek1783](https://blog.naver.com/jaek1783)
+- 블로그 : [https://blog.naver.com/wormsbrother](https://blog.naver.com/wormsbrother)
 - 포트폴리오 : https://jaek1783.github.io/choi_v2.0
 
 ## ⑃ Study Diagram
