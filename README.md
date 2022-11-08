@@ -18,7 +18,7 @@
 - 이메일 : jaek1783@gmail.com
 - 깃허브 : [https://github.com/jaek1783](https://github.com/jaek1783)
 - 블로그 : [https://blog.naver.com/wormsbrother](https://blog.naver.com/wormsbrother)
-- 포트폴리오 : https://jaek1783.github.io/choi_v2.0
+- 노션 : [https://www.notion.so/jaek1783/24b8772f7cd34a5eb5e8dc3bf83cebd5](https://www.notion.so/jaek1783/24b8772f7cd34a5eb5e8dc3bf83cebd5)
 
 ## ⑃ Study Diagram
 - Red line : Not yet Study -> 아직 학습되지 않은 부분
