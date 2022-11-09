@@ -20,11 +20,6 @@
 - 블로그 : [https://blog.naver.com/wormsbrother](https://blog.naver.com/wormsbrother)
 - 노션 : [https://www.notion.so/jaek1783/24b8772f7cd34a5eb5e8dc3bf83cebd5](https://www.notion.so/jaek1783/24b8772f7cd34a5eb5e8dc3bf83cebd5)
 
-## ⑃ Study Diagram
-- Red line : Not yet Study -> 아직 학습되지 않은 부분
-- Backend & Database 현재 학습 중 
-<img src="https://user-images.githubusercontent.com/73649967/190337618-851dcd5b-5b89-439f-96b2-367b1f9fae62.png">
-
 ## 🏢 Certificates
 <img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300">
 
