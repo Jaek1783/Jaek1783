@@ -26,9 +26,8 @@
 ### Next Project 01 _ Events WebApp
 - address : https://github.com/Jaek1783/event-page
 
-## 🏢 Certificates
-<img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300">
-
-<img src="https://user-images.githubusercontent.com/73649967/182024219-be07032a-ce84-4dd8-a7dc-4468aa24f15b.png" width="300" height="200"><img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="300" height="200">
-
-<img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="300" height="200"><img src="https://user-images.githubusercontent.com/73649967/190945791-2909291c-3e94-46c0-8f30-e79f7a6d2af6.png" width="300" height="200">
+## 🏢 Study Certificates
+### - 퍼블리싱 : HTML, CSS, JAVASCRIPT, JQUERY
+<img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300"> <img src="https://user-images.githubusercontent.com/73649967/182024219-be07032a-ce84-4dd8-a7dc-4468aa24f15b.png" width="300" height="200">
+### - 리액트 : React Hook { useState, useRef, useEffect, useContext, ... }, HTTP {Fetch, Axios}, DataBase {Firebase}
+<img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/190945791-2909291c-3e94-46c0-8f30-e79f7a6d2af6.png" width="300" height="200">
