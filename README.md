@@ -24,7 +24,7 @@
 ### React Project 01 _ Meeting Platform
 - address : https://github.com/Jaek1783/meetup
 ### Next Project 01 _ Events WebApp
-- address : https://github.com/Jaek1783/events-page
+- address : https://github.com/Jaek1783/event-page
 
 ## 🏢 Certificates
 <img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300">
