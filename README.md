@@ -2,7 +2,7 @@
 
 ## 🧑🏾‍💻 About Me
 - 국비지원 퍼블리셔 실무 양성과정 6개월 (2018.08 ~ 2019.01)
-- 개발스터디 (2022.03 ~ )
+- 개발스터디 (2022.03 ~ 2022.11 / 2023.03 ~)
 - 신입 개발자
 
 ### Introduction
@@ -18,7 +18,6 @@
 - 이메일 : jaek1783@gmail.com
 - 깃허브 : [https://github.com/jaek1783](https://github.com/jaek1783)
 - 블로그 : [https://blog.naver.com/wormsbrother](https://blog.naver.com/wormsbrother)
-- 노션 : [https://www.notion.so/jaek1783/24b8772f7cd34a5eb5e8dc3bf83cebd5](https://www.notion.so/jaek1783/24b8772f7cd34a5eb5e8dc3bf83cebd5)
 
 ## Portfolio
 ### React Project 01 _ Meeting Platform
