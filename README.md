@@ -26,7 +26,9 @@
 - address : https://github.com/Jaek1783/event-page
 
 ## 🏢 Study Certificates
-### - 퍼블리싱 : HTML, CSS, JAVASCRIPT, JQUERY
+### - 퍼블리싱
 <img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300"> <img src="https://user-images.githubusercontent.com/73649967/182024219-be07032a-ce84-4dd8-a7dc-4468aa24f15b.png" width="300" height="200">
-### - 리액트 : React Hook { useState, useRef, useEffect, useContext, ... }, HTTP {Fetch, Axios}, DataBase {Firebase}
+### - 리액트
 <img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="300" height="200"> <img src="https://user-images.githubusercontent.com/73649967/190945791-2909291c-3e94-46c0-8f30-e79f7a6d2af6.png" width="300" height="200">
+### - 넥스트JS
+<img src="https://user-images.githubusercontent.com/73649967/234446214-0d6203a6-0f53-46d3-8ed5-3b5aa13fc575.jpeg" width="300" height="200">
