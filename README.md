@@ -20,10 +20,8 @@
 - 블로그 : [https://blog.naver.com/wormsbrother](https://blog.naver.com/wormsbrother)
 
 ## Portfolio
-### React Project 01 _ Meeting Platform
-- address : https://github.com/Jaek1783/meetup
-### Next Project 01 _ Events WebApp
-- address : https://github.com/Jaek1783/event-page
+https://typescript-portfolio-blog.vercel.app/
+- 자기소개 포트폴리오
 
 ## 🏢 Study Certificates
 ### - 퍼블리싱
