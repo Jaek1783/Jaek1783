@@ -17,9 +17,10 @@
 - 가장 낮은 곳에서 다른 사람의 시선은 생각하지 않고 열심히 자신의 맡겨진 일을 행하는 벌레가 지렁이입니다.
 - 다른 사람의 시선보다 꿈을 향해 나아가는 개발자로 성장하고 싶어 지렁이형이라고 지었습니다.
 
-[![Jaek1783's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaek1783)](https://github.com/jaek1783/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaek1783&layout=compact&langs_count=4)](https://github.com/jaek1783/github-readme-stats)
-  
+
+[![Jaek1783's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaek1783)](https://github.com/jaek1783/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaek1783&theme=default)](https://git.io/streak-stats)
 ## My Stack
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
