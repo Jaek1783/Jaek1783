@@ -17,6 +17,8 @@
 - 가장 낮은 곳에서 다른 사람의 시선은 생각하지 않고 열심히 자신의 맡겨진 일을 행하는 벌레가 지렁이입니다.
 - 다른 사람의 시선보다 꿈을 향해 나아가는 개발자로 성장하고 싶어 지렁이형이라고 지었습니다.
 
+<hr/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaek1783&layout=compact&langs_count=4)](https://github.com/jaek1783/github-readme-stats)
 
 [![Jaek1783's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaek1783)](https://github.com/jaek1783/github-readme-stats)
