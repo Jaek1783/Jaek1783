@@ -41,6 +41,98 @@
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/amazon_s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"><br>
+
+## 1인 프로젝트 포트폴리오
+
+### Airbnb 클론코딩
+#### 주소
+- 현재 제작중
+#### 기술스택
+- Tailwindcss / TypeScript / React / Next JS / Prisma / MongoDB / Vercel
+#### 설명
+- Tailwindcss학습과 풀스택 스킬업을 위한 학습 클론코딩
+<hr/>
+
+### PizzaHut 디자인 카피 웹 사이트
+#### 주소
+- https://pizza-hat-five.vercel.app/
+- 현재 제작중
+#### 기술스택
+- HTML / CSS / TypeScript / React / Next JS / Vercel
+#### 설명
+- 피자헛 디자인 카피 웹사이트 제작
+- 로그인 기능과 장바구니 기능을 Udemy 강의로 학습하여 이를 프로젝트에 사용하기위해 제작
+- 피자헛의 메인페이지만 디자인 카피하였다
+<hr/>
+
+### NEXT JS / TypeScript Blog
+#### 주소
+- https://typescript-portfolio-blog.vercel.app/
+#### 기술스택
+- TypeScript / React / Next JS / Vercel
+#### 설명
+- 자기소개 및 개발스킬 소개 페이지, 개인 프로젝트 소개와 상세페이지 구현, 
+- Contact 페이지 MongoDB와 연결, Vercel 배포
+<hr/>
+  
+### Expense 시각화 웹
+#### 주소
+- https://expense-swart.vercel.app/
+#### 기술스택
+- React / Next JS / Vercel
+#### 설명
+- Udemy 강의내용의 사이드 프로젝트로 제작
+- 강의에서 제공하는 프로젝트내용을 숙지하기 위해 제작
+- 차후 개인 프로젝트로 사용하기 위해 현재 프로젝트 버전을 1.0으로 제작
+
+
+### React / To Do List
+#### 주소
+- https://github.com/Jaek1783/bucket
+#### 기술스택
+- HTML / CSS / JavaScript / React / Redux / Firebase
+#### 설명
+- Input의 text타입으로 버킷리스트 목록을 추출, Redux가 가지고 있는 배열을 수정하여 목록을 렌더링
+- 프로그래스 바를 만들어 100% 중 완료된 %를 시각화
+- 서버리스 Firebase와 연동하여 데이터베이스연결
+
+#### SaladBrother Web site
+### 주소
+- https://github.com/Jaek1783/salad
+#### 기술스택
+- HTML / CSS / JavaScript / React / Redux / Firebase
+#### 설명
+- 평소 즐겨먹던 샐러드 웹사이트 이미지로 만든 서버리스 프로젝트
+
+
+### MarkDown Blog
+#### 주소
+- https://markdown-blog-mu.vercel.app/
+#### 기술스택
+- React / Next JS / Vercel
+#### 설명
+- Node JS 기능 fs, path와 gray-matter 를 이용해, md 파일을 HTML로 변환, 마크다운으로 학습 블로그 제작
+
+
+### Janet Web site Copy
+#### 주소
+- https://github.com/Jaek1783/janet
+### 기술스택
+- HTML / CSS / JavaScript / React
+### 설명
+- 자격증 소개 사이트 자넷 메인페이지를 Copy한 프로젝트
+- 자동 무한루프와 버튼식 무한루프 슬라이드 컴포넌트 구현
+
+### Publishing Web site
+#### 기술스택
+- HTML / CSS / Javascript
+#### 주소
+- https://jaek1783.github.io/BbangSsaem/
+#### 설명
+- 퍼블리셔 취업을 위해 만든 베이커리카페 디자인 카피 웹
+
+
+
 ## 🏢 Study Certificates
 ### - 퍼블리싱
 <img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300">
