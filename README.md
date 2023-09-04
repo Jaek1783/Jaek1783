@@ -106,8 +106,8 @@
 - 서버리스 Firebase와 연동하여 데이터베이스연결
 <hr/>
 
-#### SaladBrother Web site
-### 주소
+### SaladBrother Web site
+#### 주소
 - https://github.com/Jaek1783/salad
 #### 기술스택
 - HTML / CSS / JavaScript / React / Redux / Firebase
