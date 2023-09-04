@@ -65,6 +65,15 @@
 - 피자헛의 메인페이지만 디자인 카피하였다
 <hr/>
 
+### MarkDown Blog
+#### 주소
+- https://markdown-blog-mu.vercel.app/
+#### 기술스택
+- React / Next JS / Vercel
+#### 설명
+- Node JS 기능 fs, path와 gray-matter 를 이용해, md 파일을 HTML로 변환, 마크다운으로 학습 블로그 제작
+<hr/>
+
 ### NEXT JS / TypeScript Blog
 #### 주소
 - https://typescript-portfolio-blog.vercel.app/
@@ -84,7 +93,7 @@
 - Udemy 강의내용의 사이드 프로젝트로 제작
 - 강의에서 제공하는 프로젝트내용을 숙지하기 위해 제작
 - 차후 개인 프로젝트로 사용하기 위해 현재 프로젝트 버전을 1.0으로 제작
-
+<hr/>
 
 ### React / To Do List
 #### 주소
@@ -95,6 +104,7 @@
 - Input의 text타입으로 버킷리스트 목록을 추출, Redux가 가지고 있는 배열을 수정하여 목록을 렌더링
 - 프로그래스 바를 만들어 100% 중 완료된 %를 시각화
 - 서버리스 Firebase와 연동하여 데이터베이스연결
+<hr/>
 
 #### SaladBrother Web site
 ### 주소
@@ -103,16 +113,7 @@
 - HTML / CSS / JavaScript / React / Redux / Firebase
 #### 설명
 - 평소 즐겨먹던 샐러드 웹사이트 이미지로 만든 서버리스 프로젝트
-
-
-### MarkDown Blog
-#### 주소
-- https://markdown-blog-mu.vercel.app/
-#### 기술스택
-- React / Next JS / Vercel
-#### 설명
-- Node JS 기능 fs, path와 gray-matter 를 이용해, md 파일을 HTML로 변환, 마크다운으로 학습 블로그 제작
-
+<hr/>
 
 ### Janet Web site Copy
 #### 주소
@@ -122,6 +123,7 @@
 ### 설명
 - 자격증 소개 사이트 자넷 메인페이지를 Copy한 프로젝트
 - 자동 무한루프와 버튼식 무한루프 슬라이드 컴포넌트 구현
+<hr/>
 
 ### Publishing Web site
 #### 기술스택
@@ -130,8 +132,6 @@
 - https://jaek1783.github.io/BbangSsaem/
 #### 설명
 - 퍼블리셔 취업을 위해 만든 베이커리카페 디자인 카피 웹
-
-
 
 ## 🏢 Study Certificates
 ### - 퍼블리싱
