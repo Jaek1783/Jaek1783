@@ -46,11 +46,18 @@
 
 ### Airbnb 클론코딩
 #### 주소
-- 현재 제작중
+- https://airbnb-clone-eomrhczqu-jaek1783.vercel.app/
 #### 기술스택
 - Tailwindcss / TypeScript / React / Next JS / Prisma / MongoDB / Vercel
 #### 설명
-- Tailwindcss학습과 풀스택 스킬업을 위한 학습 클론코딩
+- Airbnb 클론코딩을 이용한 웹개발 학습
+- Google , Github를 이용한 소셜 아이디 회원가입 및 로그인 구현 ( 사이트 보안주의 발생으로 현재 기능 삭제 )
+- Tailwindcss 학습 및 활용 가능
+- zustand 상태관리 라이브러리 사용경험
+- react-hook-form, react-hot-toast, react-icons 사용경험으로 빠르고 쉬운 UI 및 클린업 코드 학습
+- leaflet 학습으로 지도 API 활용
+- prisma, mongoDB,next-auth 사용으로 백엔드 풀스택 경험
+- typescript 사용으로 기존 스킬의 스킬 업
 <hr/>
 
 ### PizzaHut 디자인 카피 웹 사이트
