@@ -19,7 +19,7 @@
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaek1783&layout=compact&langs_count=4)](https://github.com/jaek1783/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaek1783&layout=compact&langs_count=5)](https://github.com/jaek1783/github-readme-stats)
 
 [![Jaek1783's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaek1783)](https://github.com/jaek1783/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaek1783&theme=default)](https://git.io/streak-stats)
