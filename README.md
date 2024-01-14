@@ -183,3 +183,7 @@ https://jaek1783.github.io/netflixTVclone/
 <img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="250" height="180">  <img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="250" height="180">  <img src="https://user-images.githubusercontent.com/73649967/190945791-2909291c-3e94-46c0-8f30-e79f7a6d2af6.png" width="250" height="180">
 ### - 넥스트JS
 <img src="https://user-images.githubusercontent.com/73649967/234446214-0d6203a6-0f53-46d3-8ed5-3b5aa13fc575.jpeg" width="300" height="200">
+
+### - 구글 애널리틱스
+<img src="https://github.com/Jaek1783/Jaek1783/assets/73649967/f0cc554f-c7f9-43aa-9f19-52c639a6d5f1.png" width="250" height="180">
+
