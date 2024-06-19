@@ -12,6 +12,9 @@
   - 포트원 결제
   - 구글 애널리틱스
   - 구글 클라우드 TTS
+  - 워드프레스 php 작업
+  - 워드프레스 플러그인 제작
+  - 라라벨 5.8 MVC CRUD
 ### Introduction
 - 안녕하세요 신입 개발자 최재근 입니다.
 - 제 닉네임은 지렁이형입니다.
@@ -48,6 +51,7 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel5.8-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
 
 ## 1인 프로젝트 포트폴리오
 
