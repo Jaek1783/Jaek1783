@@ -16,6 +16,7 @@
   - 워드프레스 플러그인 제작
   - 라라벨 5.8 MVC CRUD
   - 라라벨 Breeze + react
+  - 안면인식 faceAPI-js
 ### Introduction
 - 안녕하세요 신입 개발자 최재근 입니다.
 - 제 닉네임은 지렁이형입니다.
