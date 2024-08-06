@@ -17,6 +17,7 @@
   - 라라벨 5.8 MVC CRUD
   - 라라벨 Breeze + react
   - 안면인식 faceAPI-js
+  - 카메라 인식 Flutter App
 ### Introduction
 - 안녕하세요 신입 개발자 최재근 입니다.
 - 제 닉네임은 지렁이형입니다.
