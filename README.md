@@ -54,7 +54,8 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel5.8-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel5.8-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Flutter-3178C6?style=for-the-badge&logo=Flutter&logoColor=white">
 
 ## 1인 프로젝트 포트폴리오
 
