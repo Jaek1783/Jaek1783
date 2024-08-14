@@ -58,6 +58,21 @@
 <img src="https://img.shields.io/badge/Laravel5.8-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Flutter-3178C6?style=for-the-badge&logo=Flutter&logoColor=white">
 
+## 🏢 Study Certificates
+
+### - 퍼블리싱
+<img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300">
+
+### - 리액트
+<img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="250" height="180">  <img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="250" height="180">  <img src="https://user-images.githubusercontent.com/73649967/190945791-2909291c-3e94-46c0-8f30-e79f7a6d2af6.png" width="250" height="180">
+
+### - 넥스트JS
+<img src="https://user-images.githubusercontent.com/73649967/234446214-0d6203a6-0f53-46d3-8ed5-3b5aa13fc575.jpeg" width="300" height="200">
+
+### - 구글 애널리틱스
+<img src="https://github.com/Jaek1783/Jaek1783/assets/73649967/f0cc554f-c7f9-43aa-9f19-52c639a6d5f1.png" width="250" height="180">
+
+
 ## 1인 프로젝트 포트폴리오
 
 ### Spotify 클론 및 추가 개발
@@ -189,16 +204,3 @@ https://jaek1783.github.io/netflixTVclone/
 - https://jaek1783.github.io/BbangSsaem/
 #### 설명
 - 퍼블리셔 취업을 위해 만든 베이커리카페 디자인 카피 웹
-
-## 🏢 Study Certificates
-### - 퍼블리싱
-<img src="https://user-images.githubusercontent.com/73649967/190336761-62a5a79e-fcda-408f-afdd-393564b6c487.png" width="300">
-
-### - 리액트
-<img src="https://user-images.githubusercontent.com/73649967/182024213-84f554a4-b521-4ea8-adcd-49e76ec31d8b.png" width="250" height="180">  <img src="https://user-images.githubusercontent.com/73649967/182024141-7d3da2b2-2eeb-4c1b-a605-a9cc81ecdcff.jpeg" width="250" height="180">  <img src="https://user-images.githubusercontent.com/73649967/190945791-2909291c-3e94-46c0-8f30-e79f7a6d2af6.png" width="250" height="180">
-### - 넥스트JS
-<img src="https://user-images.githubusercontent.com/73649967/234446214-0d6203a6-0f53-46d3-8ed5-3b5aa13fc575.jpeg" width="300" height="200">
-
-### - 구글 애널리틱스
-<img src="https://github.com/Jaek1783/Jaek1783/assets/73649967/f0cc554f-c7f9-43aa-9f19-52c639a6d5f1.png" width="250" height="180">
-
