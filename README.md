@@ -131,27 +131,6 @@ https://jaek1783.github.io/netflixTVclone/
 - typescript 사용으로 기존 스킬의 스킬 업
 <hr/>
 
-### PizzaHut 디자인 카피 웹 사이트
-#### 주소
-- https://pizza-hat-five.vercel.app/
-- 현재 제작중
-#### 기술스택
-- HTML / CSS / TypeScript / React / Next JS / Vercel
-#### 설명
-- 피자헛 디자인 카피 웹사이트 제작
-- 로그인 기능과 장바구니 기능을 Udemy 강의로 학습하여 이를 프로젝트에 사용하기위해 제작
-- 피자헛의 메인페이지만 디자인 카피하였다
-<hr/>
-
-### MarkDown Blog
-#### 주소
-- https://markdown-blog-mu.vercel.app/
-#### 기술스택
-- React / Next JS / Vercel
-#### 설명
-- Node JS 기능 fs, path와 gray-matter 를 이용해, md 파일을 HTML로 변환, 마크다운으로 학습 블로그 제작
-<hr/>
-
 ### NEXT JS / TypeScript Blog
 #### 주소
 - https://typescript-portfolio-blog.vercel.app/
@@ -160,28 +139,6 @@ https://jaek1783.github.io/netflixTVclone/
 #### 설명
 - 자기소개 및 개발스킬 소개 페이지, 개인 프로젝트 소개와 상세페이지 구현, 
 - Contact 페이지 MongoDB와 연결, Vercel 배포
-<hr/>
-  
-### Expense 시각화 웹
-#### 주소
-- https://expense-swart.vercel.app/
-#### 기술스택
-- React / Next JS / Vercel
-#### 설명
-- Udemy 강의내용의 사이드 프로젝트로 제작
-- 강의에서 제공하는 프로젝트내용을 숙지하기 위해 제작
-- 차후 개인 프로젝트로 사용하기 위해 현재 프로젝트 버전을 1.0으로 제작
-<hr/>
-
-### React / To Do List
-#### 주소
-- https://github.com/Jaek1783/bucket
-#### 기술스택
-- HTML / CSS / JavaScript / React / Redux / Firebase
-#### 설명
-- Input의 text타입으로 버킷리스트 목록을 추출, Redux가 가지고 있는 배열을 수정하여 목록을 렌더링
-- 프로그래스 바를 만들어 100% 중 완료된 %를 시각화
-- 서버리스 Firebase와 연동하여 데이터베이스연결
 <hr/>
 
 ### SaladBrother Web site
