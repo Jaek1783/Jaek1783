@@ -76,7 +76,7 @@
 <img src="https://user-images.githubusercontent.com/73649967/234446214-0d6203a6-0f53-46d3-8ed5-3b5aa13fc575.jpeg" width="300" height="200">
 
 ### - 구글 애널리틱스
-<img src="https://github.com/Jaek1783/Jaek1783/assets/73649967/f0cc554f-c7f9-43aa-9f19-52c639a6d5f1.png" width="250" height="180">
+<img width="250" height="180" alt="Google_Analytics_step1" src="https://github.com/user-attachments/assets/90268f34-3ccb-403a-a9b4-42263170a5d0" />
 
 
 ## 1인 프로젝트 포트폴리오
