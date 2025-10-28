@@ -1,5 +1,5 @@
 # 최재근(CHOI JAEKEUN)
-- 생년월일 : 1994.05.08 (29세)
+- 생년월일 : 1994.05.08 (31세)
 - 전화 : 010 - 8591 - 7542
 - 이메일 : jaek1783@gmail.com
 - 블로그 : [https://blog.naver.com/wormsbrother](https://blog.naver.com/wormsbrother) 
